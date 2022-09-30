@@ -26,7 +26,7 @@ public class Ex3 {
 	            
 	        }
 	         catch (InputMismatchException e) {  
-	            System.err.println(e );
+	            System.err.println(e);
 	                      
 	    }
 	    }
